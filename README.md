@@ -22,7 +22,7 @@ How many athletes, sports, and nations participate?
 Sport achievements of nations and their global standing point?
 Which are the top sports in medals and participation?
 Who won the most medals, when and where?
-What are the physical characteristics of the athletes (e.g., sex, height, weight)?
+
 The user can customize the Dashboard by using the filters provided in the 'Vertical multiple filter panel for Customization' worksheet. The filters can be used to select the data based on the user's preferences. The user can also interact with the Dashboard by hovering over the charts to see more details.
 
 Overall, the Dashboard provides a comprehensive view of the Olympic Games over the past 120 years and can be used by anyone to explore the data and answer various queries.
