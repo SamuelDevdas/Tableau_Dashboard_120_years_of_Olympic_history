@@ -1,5 +1,7 @@
 # Tableau_Dashboard_120_years_of_Olympic_history
 
+[![Video link of Dashboard](https://img.youtube.com/vi/ZYy1I9dix3w/0.jpg)](https://www.youtube.com/watch?v=ZYy1I9dix3w)
+
 ## Usage
 The Dashboard has been designed with a user-friendly interface that can be easily accessed and explored by anyone. The Dashboard is a combination of 6 worksheets that can be explored in different ways based on the user's preferences.
 The 6 worksheets in the Dashboard are:
